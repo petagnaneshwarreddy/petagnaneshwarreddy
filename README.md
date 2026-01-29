@@ -60,9 +60,8 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=petagnaneshwarreddy&theme=radical&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=petagnaneshwarreddy&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 ### 📈 Contribution Activity
@@ -74,7 +73,7 @@
 
 ### ✍️ Dev Quote
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&quote=Consistency+beats+talent+when+talent+doesn’t+work+hard." />
 </p>
 
 ---
