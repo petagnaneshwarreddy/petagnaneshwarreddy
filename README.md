@@ -1,16 +1,52 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="35%">
 
-<!--
-**petagnaneshwarreddy/petagnaneshwarreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Peta Gnaneshwar Reddy  
+🎓 Aspiring Software & AIML Engineer  
 
-Here are some ideas to get you started:
+🔭 Full-Stack & AIML Projects  
+🌱 Learning AWS & DSA  
+💬 Ask me about Web Dev  
+⚡ Love solving real problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect
+[LinkedIn](https://www.linkedin.com/in/gnaneshwar-reddy-peta-54a58b269)  
+[Instagram](https://www.instagram.com/peta_gnaneshwarreddy)  
+[Medium](https://medium.com/@Petagnaneshwarreddy)  
+
+</td>
+
+<td width="65%">
+
+### 📊 GitHub Dashboard
+![](https://github-readme-stats.vercel.app/api?username=petagnaneshwarreddy&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=petagnaneshwarreddy&theme=dark)
+
+### 🧠 Skills
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JS](https://img.shields.io/badge/JavaScript-yellow)
+
+**Frameworks**  
+![React](https://img.shields.io/badge/React-blue)
+![Angular](https://img.shields.io/badge/Angular-red)
+
+**Backend & DB**  
+![Node](https://img.shields.io/badge/Node-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=petagnaneshwarreddy&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=petagnaneshwarreddy)](https://visitcount.itsvg.in)
